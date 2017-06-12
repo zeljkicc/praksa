@@ -1,0 +1,411 @@
+# Translation of Bootstrap Canvas WP in English (UK)
+# This file is distributed under the same license as the Bootstrap Canvas WP package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-30 14:29:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Bootstrap Canvas WP\n"
+
+#. Theme Name of the plugin/theme
+msgid "Bootstrap Canvas WP"
+msgstr "Bootstrap Canvas WP"
+
+#. Description of the plugin/theme
+msgid "The 2015 theme for WordPress built on Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development."
+msgstr "The 2015 theme for WordPress built on Bootstrap, a sleek, intuitive, and powerful mobile-first front-end framework for faster and easier web development."
+
+#. Template Name of the plugin/theme
+msgid "Sidebar Left"
+msgstr "Sidebar Left"
+
+#. Template Name of the plugin/theme
+msgid "Sidebar Right"
+msgstr "Sidebar Right"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Full-width Page Template, No Sidebar"
+
+#: tag.php:15
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: sidebar.php:26 sidebar.php:54 sidebar.php:78
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:19 sidebar.php:47 sidebar.php:71
+msgid "Archives"
+msgstr "Archives"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: loop.php:100
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+
+#: loop.php:98
+msgid "No posts to display"
+msgstr "No posts to display"
+
+#: loop.php:88
+msgid "<span class=\\\"meta-nav\\\">&larr;</span> Older posts"
+msgstr "<span class=\\\"meta-nav\\\">&larr;</span> Older posts"
+
+#: loop.php:89
+msgid "Newer posts <span class=\\\"meta-nav\\\">&rarr;</span>"
+msgstr "Newer posts <span class=\\\"meta-nav\\\">&rarr;</span>"
+
+#: loop.php:73
+msgid "Tags: "
+msgstr "Tags:"
+
+#: loop.php:71
+msgid "% Comments"
+msgstr "% Comments"
+
+#: loop.php:71
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: loop.php:71
+msgid "No Comments"
+msgstr "No Comments"
+
+#: loop.php:59
+msgid "&larr; Previous"
+msgstr "&larr; Previous"
+
+#: loop.php:58
+msgid "Next &rarr;"
+msgstr "Next &rarr;"
+
+#: loop.php:41
+msgid "[No Title]"
+msgstr "[No Title]"
+
+#: inc/wp_bootstrap_navwalker.php:197
+msgid "Add a menu"
+msgstr "Add a Menu"
+
+#: loop.php:35 loop.php:41
+msgid "Permanent Link to "
+msgstr "Permanent Link to "
+
+#: header.php:41
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#: functions.php:1108
+msgid "Reply"
+msgstr "Reply"
+
+#: functions.php:1099
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#. translators: 1: date, 2: time
+#: functions.php:1093
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: functions.php:1087
+msgid "Post author"
+msgstr "Post author"
+
+#: functions.php:1072 functions.php:1104 loop.php:69
+msgid "Edit"
+msgstr "Edit"
+
+#: functions.php:1072
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:890
+msgid "Background Color"
+msgstr "Background Colour"
+
+#: functions.php:786
+msgid "Dropdown Active Background Color"
+msgstr "Dropdown Active Background Colour"
+
+#: functions.php:763
+msgid "Dropdown Active Link Color"
+msgstr "Dropdown Active Link Colour"
+
+#: functions.php:740
+msgid "Dropdown Hover Background Color"
+msgstr "Dropdown Hover Background Colour"
+
+#: functions.php:717
+msgid "Dropdown Hover Link Color"
+msgstr "Dropdown Hover Link Colour"
+
+#: functions.php:694
+msgid "Dropdown Link Color"
+msgstr "Dropdown Link Colour"
+
+#: functions.php:671
+msgid "Dropdown Menu Color"
+msgstr "Dropdown Menu Colour"
+
+#: functions.php:878
+msgid "Footer Background Color"
+msgstr "Footer Background Colour"
+
+#: functions.php:855
+msgid "Footer Hover Link Color"
+msgstr "Footer Hover Link Colour"
+
+#: functions.php:832
+msgid "Footer Link Color"
+msgstr "Footer Link Colour"
+
+#: functions.php:809
+msgid "Footer Text Color"
+msgstr "Footer Text Colour"
+
+#: functions.php:648
+msgid "Primary Active Background Color"
+msgstr "Primary Active Background Colour"
+
+#: functions.php:625
+msgid "Primary Active Link Color"
+msgstr "Primary Active Link Colour"
+
+#: functions.php:602
+msgid "Primary Hover Link Color"
+msgstr "Primary Hover Link Colour"
+
+#: functions.php:579
+msgid "Primary Link Color"
+msgstr "Primary Link Colour"
+
+#: functions.php:556
+msgid "Primary Menu Color"
+msgstr "Primary Menu Colour"
+
+#: functions.php:533
+msgid "Headings Color"
+msgstr "Headings Colour"
+
+#: functions.php:510
+msgid "Hover Link Color"
+msgstr "Hover Link Colour"
+
+#: functions.php:487
+msgid "Link Color"
+msgstr "Link Colour"
+
+#: functions.php:464
+msgid "Text Color"
+msgstr "Text Colour"
+
+#: functions.php:441
+msgid "Header Text Color"
+msgstr "Header Text Colour"
+
+#: functions.php:278 functions.php:301
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions.php:312
+msgid "Fonts"
+msgstr "Fonts"
+
+#: functions.php:374
+msgid "Headings Font"
+msgstr "Headings Font"
+
+#: functions.php:413
+msgid "Menu Font"
+msgstr "Menu Font"
+
+#: functions.php:335
+msgid "Text Font"
+msgstr "Text Font"
+
+#: functions.php:268
+msgid "Site Title & Tagline"
+msgstr "Site Title & Tagline"
+
+#: functions.php:204
+msgid "Fourth Footer Widget Area"
+msgstr "Fourth Footer Widget Area"
+
+#: functions.php:193
+msgid "Third Footer Widget Area"
+msgstr "Third Footer Widget Area"
+
+#: functions.php:182
+msgid "Second Footer Widget Area"
+msgstr "Second Footer Widget Area"
+
+#: functions.php:173 functions.php:184 functions.php:195 functions.php:206
+msgid "An optional widget area for your site footer."
+msgstr "An optional widget area for your site footer."
+
+#: functions.php:171
+msgid "First Footer Widget Area"
+msgstr "First Footer Widget Area"
+
+#: functions.php:162
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Add widgets here to appear in your sidebar."
+
+#: functions.php:160
+msgid "Primary Widget Area"
+msgstr "Primary Widget Area"
+
+#: functions.php:96
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:26
+msgid "Back to top"
+msgstr "Back to top"
+
+#: content.php:18
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-none.php:12 loop.php:106
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Apologies, but no results were found. Perhaps searching will help find a related post."
+
+#: content-none.php:10 loop.php:104
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:118
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:111
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:105
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:97
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+
+#: comments.php:92
+msgid "Your email address will not be published."
+msgstr "Your email address will not be published."
+
+#: comments.php:85
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+
+#: comments.php:79
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: comments.php:73
+msgctxt "noun"
+msgid "Comment"
+msgstr "Comment"
+
+#: comments.php:71
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: comments.php:70
+msgid "Cancel Reply"
+msgstr "Cancel reply"
+
+#: comments.php:69
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: comments.php:68
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:39 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:38 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:37 comments.php:51
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:29
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: category.php:15
+msgid "Category Archives: %s"
+msgstr "Category Archives: %s"
+
+#: author.php:15
+msgid "Author Archives: %s"
+msgstr "Author Archives: %s"
+
+#: archive.php:29
+msgid "Blog Archives"
+msgstr "Blog Archives"
+
+#: archive.php:27
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:27
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Yearly Archives: <span>%s</span>"
+
+#: archive.php:25
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:25
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Monthly Archives: <span>%s</span>"
+
+#: archive.php:23
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Daily Archives: <span>%s</span>"
+
+#: 404.php:17
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "This is somewhat embarrassing, isn&rsquo;t it?"
+
+#. Author of the plugin/theme
+msgid "Schon Garcia"
+msgstr "Schon Garcia"
