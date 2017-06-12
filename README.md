@@ -1,6 +1,6 @@
 ## Synopsis
 
-Prototype Website for SANU using Wordpress. 
+Prototype Website for Serbian Academy of Sciences and Arts using Wordpress. 
 
 (PHP, MySQL, Wordpress)
 
